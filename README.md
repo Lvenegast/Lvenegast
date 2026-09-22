@@ -220,9 +220,6 @@ Analista Programador y Diseñador titulado con más de **10 años de experiencia
     <a href="https://luisdev.cl">
       <img src="https://img.shields.io/badge/Portafolio-luisdev.cl-090D16?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portafolio luisdev.cl"/>
     </a>
-    <a href="mailto:luis.venegas09@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-luis.venegas09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Luis Venegas"/>
-    </a>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,20:0284c7,60:1e1b4b,100:090d16&height=120&section=footer" width="100%" alt="Footer"/>
