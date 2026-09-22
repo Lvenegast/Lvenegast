@@ -11,7 +11,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/lvenegast/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://luisdev.cl"><img src="https://img.shields.io/badge/Portafolio_Web-090D16?style=for-the-badge&logo=googlechrome&logoColor=00f2fe" alt="Portfolio"/></a>
-    <a href="mailto:luis.venegas09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://luisdev.cl"><img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%2C_Chile-1E293B?style=for-the-badge&logo=googlemaps&logoColor=red" alt="Ubicación"/></a>
   </p>
 </div>
