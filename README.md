@@ -185,18 +185,11 @@ Analista Programador y Diseñador titulado con más de **10 años de experiencia
 ### 📊 Estadísticas & Actividad
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Lvenegast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Estadísticas GitHub de Luis Venegas" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvenegast&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8" alt="Lenguajes más usados" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
+  <a href="https://github.com/Lvenegast">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lvenegast&theme=tokyonight" alt="Resumen de actividad GitHub" />
+  </a>
+
+  <br/><br/>
 
   <a href="https://github.com/Lvenegast">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvenegast&theme=tokyonight&hide_border=true&background=090D16&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
